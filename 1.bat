@@ -1,1 +1,1 @@
-webdriver-manager update && webdriver-manager start
+webdriver-manager update && webdriver-manager start 

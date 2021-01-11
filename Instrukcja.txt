@@ -15,4 +15,4 @@ Uruchomienie:
 7. Miłego używania! :)
 
 Aby zapobiec wyłaczaniu się prezentacji, wskazane jest wyłaczenie usypiania komputera przy braku aktywności.
-Aplikacja nie zbiera i nie przechowuje żadnych danych
+Aplikacja nie zbiera i nie przechowuje żadnych danych  

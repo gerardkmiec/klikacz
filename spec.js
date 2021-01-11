@@ -33,5 +33,5 @@ describe('clickmeeting polls autolicker', function () {
       await console.log('Kliknięte ankiety: ' + i);
     };
   })
-});
+}); 
 
