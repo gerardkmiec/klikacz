@@ -1,0 +1,18 @@
+Instalacja:
+1. Pobierz i zainstaluj pakiet nodejs ze strony: https://nodejs.org/en/download/
+2. Pobierz i zainstaluj Javę ze strony https://www.java.com/pl/download/
+3. Musisz mieć zainstalowaną najnowszą wersję przeglądarki Chrome
+4. Uruchom plik one-time setup.bat 
+5. Nie musisz powtarzać tych czynności przy kolejnych uruchomieniach
+
+Uruchomienie:
+1. Zaloguj się do prezentacji. Kiedy się zalogujesz, skopiuj link z paska adresu
+2. Uruchom plik 1.bat Nie zamykaj wyświetlonego okna, musi być ono cały czas otwarte podczas trwania prezentacji
+3. Uruchom plik 2.bat Nie zamykaj wyświetlonego okna, musi być ono cały czas otwarte podczas trwania prezentacji
+4. Zostaniesz poproszony/a o wpisanie linku do konferencji. Kliknij prawym przyciskiem myszy w czarnym oknie. Powinien wkleić się wcześniej skopiowany adres do konferencji. Wciśnij Enter.
+5. Powinna uruchomić się przeglądarka Chrome z włączoną prezentacją. Zostanie wyłączone wyciszenie, NIE WŁĄCZAJ GO PONOWNIE!
+6. Możesz zamknąć przeglądarkę, przez którą pierwotnie zalogowałeś/aś się na konferencję.
+7. Miłego używania! :)
+
+Aby zapobiec wyłaczaniu się prezentacji, wskazane jest wyłaczenie usypiania komputera przy braku aktywności.
+Aplikacja nie zbiera i nie przechowuje żadnych danych
